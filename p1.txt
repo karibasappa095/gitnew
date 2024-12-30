@@ -1,1 +1,10 @@
 hsau
+<<<<<<< HEAD
+gwdjygd
+gjas
+swafar
+=======
+sugw
+yweat
+>>>>>>> 28edcd4 (dd)
+swagat
