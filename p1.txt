@@ -1,5 +1,6 @@
 hsau
 <<<<<<< HEAD
+<<<<<<< HEAD
 gwdjygd
 gjas
 swafar
@@ -8,3 +9,5 @@ sugw
 yweat
 >>>>>>> 28edcd4 (dd)
 swagat
+=======
+>>>>>>> a41f689 (p1)
